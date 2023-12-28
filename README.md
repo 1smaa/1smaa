@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @1smaa
-- Programmed in Python and Javascript, programming in C++.
-- LeetCode @smllrnzn, 138 problems solved.
